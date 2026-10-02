@@ -1,0 +1,4 @@
+fov_id,reason
+37,reviewer-approved 2026-09-02: crop gate [largest void 0.023 of field (>= 0.02)]
+39,reviewer-approved 2026-09-02: crop gate [largest void 0.032 of field (>= 0.02)]
+98,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0377 (>= 0.01)]

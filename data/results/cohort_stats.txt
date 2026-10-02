@@ -1,0 +1,25 @@
+=== Whole-slide magenta area fraction (ws_magenta_af) ===
+Kruskal-Wallis across 4 groups: H=34.649, p=1.45e-07
+  brain      vs met       : p=0.000169  p_adj(BH)=0.000327  ***
+  brain      vs liver     : p=0.000183  p_adj(BH)=0.000327  ***
+  brain      vs liver_met : p=0.000218  p_adj(BH)=0.000327  ***
+  met        vs liver     : p=1.51e-05  p_adj(BH)=9.09e-05  ***
+  met        vs liver_met : p=0.0283  p_adj(BH)=0.0317  *
+  liver      vs liver_met : p=0.0317  p_adj(BH)=0.0317  *
+  n(brain)=10  median=3.2e-05  mean=7.15e-05
+  n(met)=26  median=0.0006585  mean=0.0034743
+  n(liver)=10  median=0.050494  mean=0.060014
+  n(liver_met)=11  median=0.006316  mean=0.033025
+
+=== FOV-mean magenta area fraction (fov_mean_magenta_af) ===
+Kruskal-Wallis across 4 groups: H=33.087, p=3.09e-07
+  brain      vs met       : p=0.000169  p_adj(BH)=0.000365  ***
+  brain      vs liver     : p=0.000183  p_adj(BH)=0.000365  ***
+  brain      vs liver_met : p=0.00106  p_adj(BH)=0.00159  **
+  met        vs liver     : p=9.32e-06  p_adj(BH)=5.59e-05  ***
+  met        vs liver_met : p=0.1  p_adj(BH)=0.1  ns
+  liver      vs liver_met : p=0.0183  p_adj(BH)=0.022  *
+  n(brain)=10  median=1.5321e-05  mean=3.8784e-05
+  n(met)=26  median=0.00070933  mean=0.0031513
+  n(liver)=10  median=0.054362  mean=0.066137
+  n(liver_met)=11  median=0.0061044  mean=0.033465

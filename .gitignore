@@ -1,0 +1,22 @@
+# Per-sample outputs: 6.4 GB of rasters and CSVs, all regenerable from the source images.
+per_sample_out/
+# Figures and reports: regenerable, and the HTML reports embed base64 images (36 MB).
+outputs/figures/
+outputs/reports/
+*.tif
+*.tiff
+*.png.orig
+
+# The pseudonymisation key maps codes back to specimen accession numbers.
+# It must never be committed. It lives outside this directory by default.
+github_id_key.csv
+*_id_key.csv
+
+# Local / environment
+__pycache__/
+*.pyc
+.DS_Store
+._*
+.venv/
+*.egg-info/
+build/

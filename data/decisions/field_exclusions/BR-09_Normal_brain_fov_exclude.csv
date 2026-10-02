@@ -1,0 +1,13 @@
+fov_id,reason
+26,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0197 (>= 0.01)]
+54,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.6806, largest 0.6768, solidity 0.807, dark 0.0, elong 2.53)"
+56,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0195 (>= 0.01)]
+66,reviewer-approved 2026-09-02: crop gate [largest void 0.137 of field (>= 0.02)]
+67,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0228 (>= 0.01)]
+68,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0277 (>= 0.01)]
+73,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0218 (>= 0.01)]
+75,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0200 (>= 0.01)]
+79,reviewer-approved 2026-09-02: crop gate [largest void 0.141 of field (>= 0.02); tissue fraction 0.797 (<= 0.8); dark fraction 0.0528 (>= 0.01)]
+84,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0424 (>= 0.01)]
+86,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0343 (>= 0.01)]
+87,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0195 (>= 0.01)]

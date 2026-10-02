@@ -1,0 +1,9 @@
+fov_id,reason
+27,reviewer-approved 2026-09-02: crop gate [largest void 0.034 of field (>= 0.02); dark fraction 0.0126 (>= 0.01)]
+28,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.4573, largest 0.4474, solidity 0.674, dark 0.0006, elong 1.54)"
+42,reviewer-approved 2026-09-02: crop gate [largest void 0.064 of field (>= 0.02)]
+48,reviewer-approved 2026-09-02: crop gate [largest void 0.023 of field (>= 0.02)]
+60,reviewer-approved 2026-09-02: crop gate [largest void 0.033 of field (>= 0.02)]
+68,reviewer-approved 2026-09-02: crop gate [largest void 0.031 of field (>= 0.02)]
+75,reviewer-approved 2026-09-02: crop gate [largest void 0.027 of field (>= 0.02)]
+77,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1056, largest 0.0981, solidity 0.555, dark 0.0, elong 1.0)"

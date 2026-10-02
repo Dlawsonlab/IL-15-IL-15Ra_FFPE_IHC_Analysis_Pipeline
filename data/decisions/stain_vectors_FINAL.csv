@@ -1,0 +1,4 @@
+stain,channel_index,R,G,B,source,notes
+Haematoxylin,1,0.61190,0.65217,0.44749,measured from single-stain slide 2026-08-07,picked with pickVectors.ijm
+DAB (IL-15),2,0.28420,0.50621,0.81424,measured from single-stain slide 2026-08-07,picked with pickVectors.ijm
+Vector Red (IL-15Ra),3,0.18300,0.85109,0.49209,measured from single-stain slide 2026-08-07,picked with pickVectors.ijm

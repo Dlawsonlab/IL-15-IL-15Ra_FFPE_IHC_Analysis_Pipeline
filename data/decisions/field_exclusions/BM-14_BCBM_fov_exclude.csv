@@ -1,0 +1,6 @@
+fov_id,reason
+1,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1801, largest 0.0992, solidity 0.412, dark 0.0, elong 1.49)"
+12,reviewer-approved 2026-09-02: crop gate [largest void 0.048 of field (>= 0.02)]
+15,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0147 (>= 0.01)]
+22,reviewer-approved 2026-09-02: crop gate [largest void 0.041 of field (>= 0.02)]; row added 2026-09-10 -- until then this field was held by a misplaced 2026-08-06 row (ANALYSIS_LOG section 34)
+24,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0222 (>= 0.01)]

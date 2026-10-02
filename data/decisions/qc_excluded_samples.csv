@@ -1,0 +1,18 @@
+sample_id,action,reason
+EX-01,exclude,reviewer-approved poor quality: heavily fragmented (59 fragments / 30.4 mm2 = 1.94 per mm2) and only 4 usable FOVs
+EX-02,exclude,reviewer-approved poor quality: 71% of FOVs artefact-flagged (highest of any retained sample)
+EX-03,exclude,reviewer-approved 2026-08-11: only 1 usable FOV in the entire section (1.05 mm2 tissue); a single field cannot support a FOV-mean
+EX-04,exclude,tissue mask outlines an empty glass region (spurious); tissue is sparse/scattered and not reliably detected
+EX-05,exclude,reviewer-approved poor quality: heavily fragmented (124 fragments / 74.0 mm2 = 1.68 per mm2)
+EX-06,exclude,reviewer: exclude entirely
+EX-07,exclude,reviewer: exclude entirely (was previously caveat - sparse/faint tumour)
+EX-08,exclude,reviewer: exclude entirely
+EX-09,exclude,reviewer: exclude entirely
+EX-10,exclude,reviewer decision: exclude entirely (6 of 7 FOVs artefact-flagged)
+EX-11,exclude,reviewer: exclude entirely
+EX-12,exclude,reviewer: exclude entirely
+EX-13,exclude,reviewer: exclude entirely - bubbles on slide
+EX-14,exclude,reviewer: exclude entirely
+EX-15,exclude,reviewer: exclude entirely
+EX-16,exclude,"physically unmeasurable: the needle core is only ~222 um wide at its widest point, so a standard 500 um FOV cannot be inscribed anywhere in it. Its single entry is a fallback 331 px (250 um) field = 1/4 the standard 0.25 mm2 area, not comparable to any other sample. Not rescued by the chromaticity gate (+50% area still leaves the core sub-500 um), the 625 um pitch, or reduced erosion."
+EX-17,exclude,"reviewer-approved 2026-09-02: only 3 analysed fields, of which the crop gate excludes 1 (largest void >= 2% of the field), leaving 2; two fields cannot support a per-section FOV-mean. Same grounds as EX-03 (2026-08-11)."

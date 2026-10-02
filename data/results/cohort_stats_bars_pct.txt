@@ -1,0 +1,31 @@
+Statistics printed on fig_cohort_bars_pct_{legend,nolegend} (FOV-mean endpoint).
+Kruskal-Wallis omnibus; two-sided Mann-Whitney U on all six pairs;
+Benjamini-Hochberg across those six (METHODS section 10).
+Bars = group median, whiskers = interquartile range, % of tissue area.
+
+=== Panel F: IL-15+ area  [fov_mean_brown_af] ===
+  Non-neoplastic brain  n=10  median= 60.8707  IQR 45.6272-77.3996  max=84.6792
+  BCBM                  n=26  median= 19.4742  IQR 6.5634-27.0678  max=45.7295
+  Non-neoplastic liver  n=10  median= 42.6190  IQR 28.9802-48.6016  max=61.9165
+  Liver metastasis      n=11  median= 20.0032  IQR 11.9022-26.3080  max=48.3085
+  Kruskal-Wallis H=21.282 p=9.2e-05
+    Non-neoplastic brain  vs BCBM                  p=0.000574  p_adj=0.00254  drawn
+    Non-neoplastic brain  vs Non-neoplastic liver  p=0.14  p_adj=0.169  omitted (ns)
+    Non-neoplastic brain  vs Liver metastasis      p=0.00671  p_adj=0.0101  drawn
+    BCBM                  vs Non-neoplastic liver  p=0.000845  p_adj=0.00254  drawn
+    BCBM                  vs Liver metastasis      p=0.96  p_adj=0.96  omitted (ns)
+    Non-neoplastic liver  vs Liver metastasis      p=0.00347  p_adj=0.00695  drawn
+
+=== Panel G: IL-15Rα+ area  [fov_mean_magenta_af] ===
+  Non-neoplastic brain  n=10  median=  0.0015  IQR 0.0006-0.0037  max=0.0223
+  BCBM                  n=26  median=  0.0709  IQR 0.0092-0.3257  max=1.8233
+  Non-neoplastic liver  n=10  median=  5.4362  IQR 2.3228-10.7924  max=13.9640
+  Liver metastasis      n=11  median=  0.6104  IQR 0.0508-1.7572  max=17.8891
+  Kruskal-Wallis H=33.087 p=3.09e-07
+    Non-neoplastic brain  vs BCBM                  p=0.000169  p_adj=0.000365  drawn
+    Non-neoplastic brain  vs Non-neoplastic liver  p=0.000183  p_adj=0.000365  drawn
+    Non-neoplastic brain  vs Liver metastasis      p=0.00106  p_adj=0.00159  drawn
+    BCBM                  vs Non-neoplastic liver  p=9.32e-06  p_adj=5.59e-05  drawn
+    BCBM                  vs Liver metastasis      p=0.1  p_adj=0.1  omitted (ns)
+    Non-neoplastic liver  vs Liver metastasis      p=0.0183  p_adj=0.022  drawn
+

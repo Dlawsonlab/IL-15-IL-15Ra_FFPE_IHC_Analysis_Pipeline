@@ -1,0 +1,7 @@
+fov_id,reason
+6,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1389, largest 0.1378, solidity 0.645, dark 0.0, elong 1.0)"
+7,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1974, largest 0.1969, solidity 0.838, dark 0.0002, elong 1.57)"
+13,reviewer-approved 2026-08-11: artefact-flagged (dark residue 0.0179 > 0.015 threshold); carried 90% of this negative-control sample's signal
+19,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0146 (>= 0.01)]
+36,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0142 (>= 0.01)]
+37,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.2872, largest 0.2585, solidity 0.617, dark 0.0004, elong 3.18)"

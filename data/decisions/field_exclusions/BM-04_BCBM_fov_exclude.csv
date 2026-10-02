@@ -1,0 +1,23 @@
+fov_id,reason
+5,reviewer-approved 2026-09-02: crop gate [largest void 0.052 of field (>= 0.02)]; row added 2026-09-10 -- until then this field was held by a misplaced 2026-08-06 row (ANALYSIS_LOG section 34)
+10,reviewer-approved 2026-09-02: crop gate [largest void 0.063 of field (>= 0.02)]
+13,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0120 (>= 0.01)]
+22,reviewer-approved 2026-09-02: crop gate [largest void 0.046 of field (>= 0.02)]
+23,reviewer-approved 2026-09-02: crop gate [largest void 0.023 of field (>= 0.02)]
+28,reviewer-approved 2026-09-02: crop gate [largest void 0.131 of field (>= 0.02)]
+44,reviewer-approved 2026-09-02: crop gate [largest void 0.102 of field (>= 0.02)]
+45,reviewer-approved 2026-09-02: crop gate [largest void 0.030 of field (>= 0.02)]
+47,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.3222, largest 0.2194, solidity 0.632, dark 0.0001, elong 1.33)"
+48,reviewer-approved 2026-09-02: crop gate [largest void 0.105 of field (>= 0.02); tissue fraction 0.780 (<= 0.8)]
+64,reviewer-approved 2026-09-02: crop gate [largest void 0.027 of field (>= 0.02)]
+65,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0111 (>= 0.01)]
+86,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0225 (>= 0.01)]
+91,reviewer-approved 2026-09-02: crop gate [largest void 0.064 of field (>= 0.02)]
+94,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0124 (>= 0.01)]
+95,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0269 (>= 0.01)]
+96,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0145 (>= 0.01)]
+101,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0103 (>= 0.01)]
+103,reviewer-approved 2026-09-02: crop gate [dark fraction 0.0126 (>= 0.01)]
+108,reviewer-approved 2026-09-02: crop gate [largest void 0.031 of field (>= 0.02)]
+116,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1978, largest 0.1192, solidity 0.387, dark 0.0002, elong 1.53)"
+118,reviewer-approved 2026-09-02: crop gate [largest void 0.022 of field (>= 0.02)]

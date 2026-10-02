@@ -1,0 +1,12 @@
+# Fiji install recorded 2026-09-30 from /pub/evaz/fiji/Fiji.app
+imagej_jar: ij-1.54p.jar
+imagej2_jar: imagej-2.16.0.jar
+fiji_jar: fiji-2.16.1-SNAPSHOT.jar
+bioformats_jar: bio-formats/formats-api-8.1.1.jar
+java: java/linux-amd64/zulu8.86.0.25-ca-fx-jdk8.0.452-linux_x64/bin/java
+  openjdk version "1.8.0_452"
+  OpenJDK Runtime Environment (Zulu 8.86.0.25-CA-linux64) (build 1.8.0_452-b09)
+  OpenJDK 64-Bit Server VM (Zulu 8.86.0.25-CA-linux64) (build 25.452-b09, mixed mode)
+colour_deconvolution2: plugins/colour_deconvolution2.jar
+  sha256 1690e891f5aef7bbe116806f425539c6b00d38e5d9bd7fd11e962026886e1002
+  matches macros/colour_deconvolution2.jar

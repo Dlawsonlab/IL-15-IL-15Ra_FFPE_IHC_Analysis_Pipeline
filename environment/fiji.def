@@ -1,0 +1,39 @@
+Bootstrap: docker
+From: rockylinux:8
+
+# Fiji for the IL-15 duet IHC macros.
+#
+# The image copies the cluster Fiji install that produced the cohort. It does not download
+# Fiji, because a fresh download pulls the current update-site jars rather than the ones that
+# ran. environment/fiji_manifest.tsv lists the SHA-256 of every file copied in.
+#
+# Build and hash:  sbatch environment/build_fiji_image.sh
+# Test:            sbatch environment/test_fiji_image.sh
+
+%labels
+    org.opencontainers.image.title il15-duet-ihc-fiji
+    ImageJ 1.54p
+    ImageJ2 2.16.0
+    Fiji 2.16.1-SNAPSHOT
+    Bio-Formats 8.1.1
+    Java Zulu 8.86.0.25 (OpenJDK 1.8.0_452)
+    ColourDeconvolution2.sha256 1690e891f5aef7bbe116806f425539c6b00d38e5d9bd7fd11e962026886e1002
+
+%files
+    /pub/evaz/fiji/Fiji.app /opt/Fiji.app
+
+%post
+    # Xvfb supplies the display Colour Deconvolution2 needs; the X libraries let AWT load.
+    dnf -y install xorg-x11-server-Xvfb xorg-x11-xauth libXtst libXrender libXi \
+        fontconfig dejavu-sans-fonts which procps-ng
+    dnf clean all
+    # %files keeps each file's mode but makes root its owner, so owner-only files in the
+    # source install (colour_deconvolution2.jar is 0640) would be unreadable at run time.
+    chmod -R a+rX /opt/Fiji.app
+
+%environment
+    export FIJI=/opt/Fiji.app/ImageJ-linux64
+
+%runscript
+    # Never --headless: Colour Deconvolution2 then writes nothing.
+    exec xvfb-run -a "$FIJI" "$@"

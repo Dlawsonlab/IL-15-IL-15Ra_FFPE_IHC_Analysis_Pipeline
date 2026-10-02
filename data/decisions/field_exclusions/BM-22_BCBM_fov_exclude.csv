@@ -1,0 +1,32 @@
+fov_id,reason
+0,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1274, largest 0.1145, solidity 0.404, dark 0.0, elong 1000.0)"
+2,reviewer-approved 2026-09-02: crop gate [largest void 0.049 of field (>= 0.02)]
+5,reviewer-approved 2026-09-02: crop gate [largest void 0.037 of field (>= 0.02)]
+6,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1688, largest 0.066, solidity 0.679, dark 0.0, elong 1.0)"
+7,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1142, largest 0.0851, solidity 0.351, dark 0.0, elong 1.0)"
+10,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1822, largest 0.1462, solidity 0.592, dark 0.0, elong 1.0)"
+13,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.0814, largest 0.0745, solidity 0.39, dark 0.0, elong 1.0)"
+18,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.0902, largest 0.0639, solidity 0.343, dark 0.0001, elong 1.56)"
+21,reviewer-approved 2026-09-02: crop gate [largest void 0.040 of field (>= 0.02)]
+25,reviewer-approved 2026-09-02: crop gate [largest void 0.036 of field (>= 0.02)]
+27,reviewer-approved 2026-09-02: crop gate [largest void 0.063 of field (>= 0.02)]
+28,reviewer-approved 2026-09-02: crop gate [largest void 0.034 of field (>= 0.02)]
+31,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.2783, largest 0.2486, solidity 0.435, dark 0.0, elong 1.0)"
+32,reviewer-approved 2026-09-02: crop gate [largest void 0.022 of field (>= 0.02)]
+33,reviewer-approved 2026-09-02: crop gate [largest void 0.029 of field (>= 0.02)]
+40,reviewer-approved 2026-09-02: crop gate [largest void 0.022 of field (>= 0.02)]
+43,reviewer-approved 2026-09-02: crop gate [largest void 0.025 of field (>= 0.02)]
+45,reviewer-approved 2026-09-02: crop gate [largest void 0.059 of field (>= 0.02)]
+46,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.203, largest 0.0667, solidity 0.728, dark 0.0, elong 1.73)"
+48,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1103, largest 0.1002, solidity 0.64, dark 0.0, elong 2.14)"
+49,reviewer-approved 2026-09-02: crop gate [largest void 0.024 of field (>= 0.02)]
+53,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1339, largest 0.0602, solidity 0.408, dark 0.0, elong 1.73)"
+56,reviewer-approved 2026-09-02: crop gate [largest void 0.027 of field (>= 0.02)]
+57,reviewer-approved 2026-09-02: crop gate [largest void 0.036 of field (>= 0.02)]
+67,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1747, largest 0.1335, solidity 0.516, dark 0.0, elong 1.15)"
+75,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.1942, largest 0.1617, solidity 0.456, dark 0.0002, elong 1.67)"
+77,reviewer-approved 2026-09-02: crop gate [largest void 0.024 of field (>= 0.02)]
+78,reviewer-approved 2026-09-02: crop gate [largest void 0.052 of field (>= 0.02)]
+81,reviewer-approved 2026-09-02: crop gate [largest void 0.049 of field (>= 0.02)]
+82,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.4669, largest 0.4246, solidity 0.477, dark 0.0, elong 2.45)"
+85,"reviewer-approved 2026-08-12: quality flag [tear] at native resolution (void 0.2293, largest 0.2241, solidity 0.762, dark 0.0001, elong 1.88)"
